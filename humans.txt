@@ -1,0 +1,17 @@
+/* TEAM */
+	Developer: Tareq Hasan
+	Contact:   tareq@wedevs.com
+	URI:       http://tareq.wedevs.com
+
+/* THANKS */
+	Template Design: 10up
+	URI:             http://10up.com
+	Twitter:         @10up
+	
+	Template Design: Eric Mann
+	URI:             http://eamann.com
+	Twitter:         @ericmann
+	
+/* SITE */
+	Created:  2015-02-04
+	Template: https://github.com/10up/grunt-wp-theme
